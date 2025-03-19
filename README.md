@@ -1,47 +1,31 @@
-## Hi there 👋
+# Hey, I’m Ruthvik! 👋  
+I’m a developer passionate about machine learning, web development, and turning data into insights. Welcome to my GitHub—here’s where I showcase my projects and experiments!  
 
-# Student Engagement Analyzer  
-Predicting and Understanding Student Engagement in Online Courses  
+## 🌟 Featured Project: Student Engagement Analyzer  
+**What**: An end-to-end ML project to analyze and predict student engagement in online courses.  
+**How**: Built an ETL pipeline, computed custom engagement scores, and visualized trends with Python, MongoDB, Seaborn, and Matplotlib.  
+**Live Demo**: [https://studengage-frontend.onrender.com]  
+**Repo**: [github.com/Ruthvik11/student-engagement-analyzer](https://github.com/Ruthvik11/student-engagement-analyzer)  
+*Check out the heatmaps and see engagement patterns in action!*  
 
-## 🚀 Overview  
-This project is an end-to-end solution to analyze and predict student engagement in online education platforms. Using an ETL pipeline and machine learning, it processes student interaction data, computes custom engagement scores, and identifies inactive students based on their learning patterns. The result? Actionable insights to improve course completion rates—now live and ready to explore!  
+## 🛠️ My Projects  
+- **[Student Engagement Analyzer](#)** - ML-driven insights for online education (see above!).  
+- **[Portfolio](https://github.com/Ruthvik11/Portfolio)** - My personal showcase of web dev skills.  
+- **[Ruthvik11.github.io](https://github.com/Ruthvik11/Ruthvik11.github.io)** - My live portfolio site.  
+*More projects coming soon—stay tuned!*  
 
-## 🔗 Live Demo  
-Try it out here:https://studengage-frontend.onrender.com 
-*See how engagement trends come to life!*  
+## 🔧 Skills  
+- **Languages**: Python, JavaScript, HTML, CSS  
+- **Tools**: MongoDB, Pandas, Scikit-learn, Seaborn, Matplotlib, FastAPI, Django  
+- **Focus**: Machine Learning, Data Analysis, Backend Development
+- **Databases** : MongoDB Atlas
 
-## 🛠️ Tech Stack  
-- **Languages**: Python  
-- **Data Processing**: Pandas, NumPy  
-- **Machine Learning**: Scikit-learn, RandomForestClassifier   
-- **Database**: MongoDB Atlas
-- **Visualization**: Seaborn, Matplotlib  
-- **Backend**: FastAPI  
-- **Deployment**: Render
+## 📊 GitHub Stats  
+![Ruthvik's Stats](https://github-readme-stats.vercel.app/api?username=Ruthvik11&show_icons=true&theme=radical)  
 
-## ✨ Features  
-- **ETL Pipeline**: Extracts, transforms, and stores student interaction data.  
-- **Engagement Score**: Custom formula based on quizzes, Timespentoncourse. numberofvideoswatched, and Quizescores  
--   
--  
-- **Visual Insights**: Heatmaps, histograms, and boxplots of engagement trends.  
-- **Prediction Ready**: Data prepped for ML models to forecast completion rates.  
+## 📫 Let’s Connect  
+- Email: [ruthviksayabugari@gmail.com]  
+  
+- Live Portfolio: [ruthvik11.github.io](https://ruthvik11.github.io)  
 
-## 📸 Preview  
-![Engagement Heatmap]("C:\Users\Rithika\OneDrive\Documents\Pictures\Screenshots\Screenshot 2025-03-19 144048.png")  
-*Caption: Visualizing student engagement patterns with a heatmap.*  
-
-## ⚙️ How It Works  
-1. **Data Extraction**: Pulls raw student interaction data .  
-2. **Transformation**: Computes engagement scores and Engagement_level.  
-3. **Storage**: Loads processed data into MongoDB for efficient querying.  
-4. **Analysis**: Generates visualizations to uncover trends and outliers.  
-5. **Prediction**: Prepares features for ML models to predict engagement outcomes.  
-
-## 📦 Installation  
-Want to run it locally? Here’s how:  
-```bash
-git clone https://github.com/Ruthvik11/student-engagement-analyzer.git  
-cd student-engagement-analyzer  
-pip install -r requirements.txt  
-python main.py  
+⚡ *Fun Fact*: I’ve probably debugged more ML models than I’ve had cups of coffee... and that’s saying something!   
