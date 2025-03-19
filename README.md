@@ -5,7 +5,7 @@ I’m a developer passionate about machine learning, web development, and turnin
 **What**: An end-to-end ML project to analyze and predict student engagement in online courses.  
 **How**: Built an ETL pipeline, computed custom engagement scores, and visualized trends with Python, MongoDB, Seaborn, and Matplotlib.  
 **Live Demo**: [https://studengage-frontend.onrender.com]  
-**Repo**: [github.com/Ruthvik11/student-engagement-analyzer](https://github.com/Ruthvik11/student-engagement-analyzer)  
+**Repo**: [github.com/Ruthvik11/student-engagement-analyzer](https://github.com/Ruthvik11/student_engage.git)  
 *Check out the heatmaps and see engagement patterns in action!*  
 
 ## 🛠️ My Projects  
